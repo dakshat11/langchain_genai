@@ -1,0 +1,15 @@
+# Environment and secrets
+.env
+*.env
+
+# Virtual environments
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local database or cache
+*.sqlite3
+my_chroma_db/
