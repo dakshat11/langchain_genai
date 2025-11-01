@@ -3,7 +3,7 @@
 *.env
 
 # Virtual environments
-venv/
+.venv/
 env/
 
 # Python cache
